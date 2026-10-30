@@ -1,0 +1,23 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+data/*.db
+data/*.db-shm
+data/*.db-wal
+.DS_Store
+# Environment secrets
+.env.*
+!.env.example
+# Local editor settings
+.vscode/
+# Application logs
+*.log
+# Build artifacts
+build/
+dist/
+# IDE settings
+.idea/

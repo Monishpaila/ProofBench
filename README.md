@@ -4,6 +4,30 @@ ProofBench is a full-stack evaluation workspace for comparing LLMs and tool-usin
 
 **No scores are seeded or fabricated.** A new install contains reusable benchmark datasets, but the dashboard remains empty until you run real evaluations against a configured provider. Dataset order records are explicitly local fixtures; they are not a connection to a live commerce system.
 
+
+## 📸 Application Screenshots
+
+### 1. Overview Dashboard
+Monitor benchmark activity, evaluated models, datasets, and performance metrics.
+
+![ProofBench Overview](docs/screenshots/overview.png)
+
+### 2. Benchmark Configuration
+Configure reproducible experiments by selecting datasets, models, and evaluation workflows.
+
+![Benchmark Configuration](docs/screenshots/benchmark-setup.png)
+
+### 3. Dataset Management
+Manage configurable datasets and test cases for business-oriented AI evaluations.
+
+![Dataset Management](docs/screenshots/datasets.png)
+
+### 4. Evaluation Report
+Inspect model comparisons, scoring evidence, response latency, failures, and cost information.
+
+![Evaluation Report](docs/screenshots/evaluation-report.png)
+
+
 ## What is included
 
 - **Dashboard and run history:** database-backed KPIs, historical task-accuracy signal, current status, per-run reports, and saved case responses.

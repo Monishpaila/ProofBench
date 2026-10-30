@@ -21,3 +21,4 @@ build/
 dist/
 # IDE settings
 .idea/
+desktop.ini
